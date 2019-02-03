@@ -1,7 +1,5 @@
 # Causal-Discovery-from-Continuous-Time-Series-by-Compression
 
-# Causal Discovery from Continuous Time Series by Compression
-
 ## 1. Code Summary
 In data directory, we provide all data that we use in our experiments and a data generator of MATLAB Simulink to generate mechatronic engineering data.
 In cute.py, there are methods provided by [Causal Inference on Event Sequences](http://kailashbuki.github.io/manuscript/cute.pdf)   to allow our methods to compare with others.
