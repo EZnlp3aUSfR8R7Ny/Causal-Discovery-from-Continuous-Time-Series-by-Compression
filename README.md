@@ -52,3 +52,13 @@ synthetic_data_test.py and real_data_test.py provide synthetic data test and rea
     test_engineering(2, 0)
     test_engineering(1, 1)
     test_engineering(2, 1)
+
+## Supplement to our code
+
+The methods above only provide main results of our experiments.  The code for other models(G-test, cute, icute) is annotated. These functions can also be used.
+
+From the point of view of code simplicity, all of our synthetic data related tests are imported from test_data(). Make sure to read comments before you use this method by yourself.
+
+## Experiment Results
+We provide detailed results of all the experiments in this paper in directory **Experiment Result**.
+In addition, as the noise is random, the last real world data experiment will get different results every time you run. Therefore we store the data that we use in this paper in excel of the directory.
